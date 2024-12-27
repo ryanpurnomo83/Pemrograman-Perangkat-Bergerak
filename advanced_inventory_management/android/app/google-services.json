@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463760097759",
+    "project_id": "advanced-inventory-management",
+    "storage_bucket": "advanced-inventory-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463760097759:android:e26272764a5e443368846a",
+        "android_client_info": {
+          "package_name": "com.example.advanced_inventory_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaukSlbm1e1_BUfJaJUfWCI5I7grNG-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
